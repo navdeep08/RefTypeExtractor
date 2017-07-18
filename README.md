@@ -34,7 +34,7 @@ After taking a list of input projects this tool performs the following operation
 * Clone each project using project’s URL in C:\ReftypeExtractorData\GitProjects.
 * Extracts and Store Commit Messages of each project  in C:\RefTypeExtracterData\ExtractedData\commits folder.
 * Assigns serail numbers to each commit message starting from 1 to a total number of commit messages and store them at C:\RefTypeExtracterData\ExtractedData\Commits_with_numbers.
-* It mine commit messages related to refactoring by searching 99 keywords  (such as “restruct”and “refactor”) in each commit message and store them separately at C:\RefTypeExtracterData\ExtractedData\Refactoring_Commits. 
+* It mine commit messages related to refactoring by searching 14 keywords  (such as “refactor” and “code clean”) in each commit message and store them separately at C:\RefTypeExtracterData\ExtractedData\Refactoring_Commits. 
 * RefactoringMiner tool then detects the refactoring activities performed in each commit message and results are stored in C:\RefTypeExtracterData\ExtractedData\RefactoringMinerResult
 * Finally, it distribute commits into their respective refactoring types and results are stored at C:\RefTypeExtracterData\ExtractedData\Refactoring_Commits.
 
