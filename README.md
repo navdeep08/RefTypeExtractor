@@ -38,7 +38,3 @@ After taking a list of input projects this tool performs the following operation
 * RefactoringMiner tool then detects the refactoring activities performed in each commit message and results are stored in C:\RefTypeExtracterData\ExtractedData\RefactoringMinerResult
 * Finally, it distribute commits into their respective refactoring types and results are stored at C:\RefTypeExtracterData\ExtractedData\Refactoring_Commits.
 
-
-Research
----
-* Danilo Silva, Nikolaos Tsantalis, and Marco Tulio Valente, "Why We Refactor? Confessions of GitHub Contributors," 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE'2016), Seattle, WA, USA, November 13-18, 2016.
